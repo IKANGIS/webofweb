@@ -1,3 +1,3 @@
 # webofweb
 - This is web of Web.
-try to understand the notion of Notion.
+- Try to understand the notion of Notion.
